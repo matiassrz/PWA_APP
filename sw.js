@@ -13,13 +13,13 @@ const CACHE_NAME = 'app-shell-v1';
 // Si tu aplicación tiene archivos adicionales (fuentes locales,
 // imágenes propias, etc.), podés agregarlos a esta lista.
 const RECURSOS_SHELL = [
-  '/',
-  '/index.html',
-  '/css/styles.css',
-  '/js/app.js',
-  '/manifest.json',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png'
+  '/PWA_APP/',
+  '/PWA_APP/index.html',
+  '/PWA_APP/css/styles.css',
+  '/PWA_APP/js/app.js',
+  '/PWA_APP/manifest.json',
+  '/PWA_APP/icons/icon-192.png',
+  '/PWA_APP/icons/icon-512.png'
 ];
 
 // ── INSTALACIÓN ──────────────────────────────────────────────
